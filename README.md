@@ -11,10 +11,10 @@ $ . venv/bin/activate
 
 Run MO and Benchmark_app on the environment having openvino-dev.
 ```
-$ mo --input_model model.onnx
-$ mo --input_model compressed_model.onnx
-$ benchmark_app -m model.xml
-$ benchmark_app -m compressed_model.xml
+(openvino_env) $ mo --input_model model.onnx
+(openvino_env) $ mo --input_model compressed_model.onnx
+(openvino_env) $ benchmark_app -m model.xml
+(openvino_env) $ benchmark_app -m compressed_model.xml
 ```
 
 
