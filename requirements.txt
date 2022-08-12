@@ -1,0 +1,3 @@
+torchvision==0.10.1
+nncf[torch]==2.3.0
+pygraphviz
