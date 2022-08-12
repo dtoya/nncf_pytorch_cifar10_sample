@@ -1,7 +1,7 @@
 # nncf_pytorch_cifar10_sample
 
 ```
-$ sudo apt graphviz-dev and graphviz
+$ sudo apt graphviz-dev graphviz
 $ python3 -m venv venv
 $ . venv/bin/activate
 (venv) $ pip install -U pip
